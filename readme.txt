@@ -1,6 +1,6 @@
-===============
-Player API core
-===============
+==========
+Player API
+==========
 
 Version 1.4 for Minecraft 1.7.10
 
@@ -11,7 +11,7 @@ by Divisor
 Description
 ===========
 
-Player API core is an Minecraft Forge core mod which gives
+Player API is a Minecraft Forge core mod which gives
 
 * client mods access to the client classes "EntityPlayerSP" aka "blk" and "EntityPlayerMP" aka "mw"
 * server mods access to the server class and "EntityPlayerMP" aka "mw"
